@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mantine/core": "^7.1.0",
+    "@mantine/hooks": "^7.1.0",
     "@react-spring/web": "^9.7.3",
     "@react-three/drei": "^9.85.0",
     "@react-three/fiber": "^8.14.3",
+    "@tabler/icons-react": "^2.38.0",
     "@use-gesture/react": "^10.3.0",
     "postprocessing": "^6.33.1",
     "react": "^18.2.0",
@@ -31,6 +34,8 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "postcss": "^8.4.31",
+    "postcss-preset-mantine": "^1.7.0",
+    "postcss-simple-vars": "^7.0.1",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
